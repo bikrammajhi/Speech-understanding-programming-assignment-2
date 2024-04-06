@@ -8,3 +8,4 @@ This repository is dedicated to the Speech Understanding Assignment 2 from Sprin
 |----------------------|------------------------|
 | unispeech-sat-base-sv|       15.04%           |
 | wavlm-base-plus-sv   |       13.30%           |
+| wavlm-base-sv        |       14.85%           |
