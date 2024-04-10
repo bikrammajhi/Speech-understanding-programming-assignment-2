@@ -2,13 +2,21 @@
 
 This repository is dedicated to the Speech Understanding Assignment 2 from Spring 2024 at IIT-Jodhpur.
 
-### Question-1
+### Question-1 (VoxCeleb1-H Dataset)
 
 | Models               | Equal Error Rate (EER) |
 |----------------------|------------------------|
 | unispeech-sat-base-sv|       15.04%           |
 | wavlm-base-plus-sv   |       13.30%           |
 | wavlm-base-sv        |       14.85%           |
+
+### Question-1 (Kathbath Dataset)
+
+| Models               | Equal Error Rate (EER) |
+|----------------------|------------------------|
+| unispeech-sat-base-sv|       ------           |
+| wavlm-base-plus-sv   |       --------         |
+| wavlm-base-sv        |       50.00%           |
 
 ### Question-2
 
