@@ -14,7 +14,7 @@ This repository is dedicated to the Speech Understanding Assignment 2 from Sprin
 
 | Models               | Equal Error Rate (EER) |
 |----------------------|------------------------|
-| unispeech-sat-base-sv|       ------           |
+| unispeech-sat-base-sv|       49.97%           |
 | wavlm-base-plus-sv   |       50.00%           |
 | wavlm-base-sv        |       50.00%           |
 
