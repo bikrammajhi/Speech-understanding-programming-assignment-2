@@ -6,20 +6,26 @@ This repository is dedicated to the Speech Understanding Assignment 2 from Sprin
 
 | Models               | Equal Error Rate (EER) |
 |----------------------|------------------------|
-| unispeech-sat-base-sv|       15.04%           |
-| wavlm-base-plus-sv   |       13.30%           |
-| wavlm-base-sv        |       14.85%           |
+| Unispeech-sat        |       15.04%           |
+| Wavlm-base-plus      |       13.30%           |
+| Wavlm-base           |       14.85%           |
 
 ### Question-1 (Kathbath Dataset)
 
 | Models               | Equal Error Rate (EER) |
 |----------------------|------------------------|
-| unispeech-sat-base-sv|       49.97%           |
-| wavlm-base-plus-sv   |       50.00%           |
-| wavlm-base-sv        |       50.00%           |
+| Unispeech-sat        |       49.97%           |
+| Wavlm-base-plus      |       50.00%           |
+| Wavlm-base           |       50.00%           |
+
+### Question-1 (After finetuned)
+
+| Models               | Equal Error Rate (EER) |
+|----------------------|------------------------|
+| Unispeech-sat        |       5.00%            |
+
 
 ### Question-2
-
 
 | Mixture Type | Before Fine-tuning                  | After Fine-tuning                   |
 |--------------|-------------------------------------|-------------------------------------|
